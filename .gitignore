@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+.vagrant
+app/cred.py
+*.db
+*.db-journal
